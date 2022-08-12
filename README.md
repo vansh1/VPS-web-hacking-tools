@@ -22,7 +22,7 @@ Automatically install some web hacking/bug bounty tools for your VPS.
 
 ```
 apt-get update -y && apt-get install git -y
-cd /tmp && git clone https://github.com/supr4s/VPS-web-hacking-tools && cd VPS-web-hacking-tools && ./installer.sh
+cd /tmp && git clone https://github.com/vansh1/VPS-web-hacking-tools && cd VPS-web-hacking-tools && ./installer.sh
 ```
 
 ## Available tools list

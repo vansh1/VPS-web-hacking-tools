@@ -129,8 +129,6 @@ WORDLISTS () {
 	echo -e ${BLUE}"[WORDLISTS]" ${GREEN}"SecLists installation is done !"; echo "";
 }
 
-}
-
 VULNS_SQLI () {
 	#SQLmap
 	echo -e ${BLUE}"[VULNERABILITY - SQL Injection]" ${RED}"SQLMap installation in progress ...";

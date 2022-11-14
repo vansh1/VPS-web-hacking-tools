@@ -122,8 +122,6 @@ FUZZING_TOOLS () {
 	echo -e ${BLUE}"[FUZZING TOOLS]" ${GREEN}"ffuf installation is done !"; echo "";
 }
 
-}
-
 WORDLISTS () {
 	#SecLists
 	echo -e ${BLUE}"[WORDLISTS]" ${RED}"SecLists installation in progress ...";
